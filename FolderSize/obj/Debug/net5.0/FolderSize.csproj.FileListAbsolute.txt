@@ -1,0 +1,16 @@
+C:\Users\artem\Desktop\FolderSize\FolderSize\bin\Debug\net5.0\FolderSize.exe
+C:\Users\artem\Desktop\FolderSize\FolderSize\bin\Debug\net5.0\FolderSize.deps.json
+C:\Users\artem\Desktop\FolderSize\FolderSize\bin\Debug\net5.0\FolderSize.runtimeconfig.json
+C:\Users\artem\Desktop\FolderSize\FolderSize\bin\Debug\net5.0\FolderSize.runtimeconfig.dev.json
+C:\Users\artem\Desktop\FolderSize\FolderSize\bin\Debug\net5.0\FolderSize.dll
+C:\Users\artem\Desktop\FolderSize\FolderSize\bin\Debug\net5.0\ref\FolderSize.dll
+C:\Users\artem\Desktop\FolderSize\FolderSize\bin\Debug\net5.0\FolderSize.pdb
+C:\Users\artem\Desktop\FolderSize\FolderSize\obj\Debug\net5.0\FolderSize.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\FolderSize\FolderSize\obj\Debug\net5.0\FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\Desktop\FolderSize\FolderSize\obj\Debug\net5.0\FolderSize.AssemblyInfoInputs.cache
+C:\Users\artem\Desktop\FolderSize\FolderSize\obj\Debug\net5.0\FolderSize.AssemblyInfo.cs
+C:\Users\artem\Desktop\FolderSize\FolderSize\obj\Debug\net5.0\FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\FolderSize\FolderSize\obj\Debug\net5.0\FolderSize.dll
+C:\Users\artem\Desktop\FolderSize\FolderSize\obj\Debug\net5.0\ref\FolderSize.dll
+C:\Users\artem\Desktop\FolderSize\FolderSize\obj\Debug\net5.0\FolderSize.pdb
+C:\Users\artem\Desktop\FolderSize\FolderSize\obj\Debug\net5.0\FolderSize.genruntimeconfig.cache
